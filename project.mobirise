@@ -925,7 +925,7 @@
         {
           "_params": {
             "blockTitle": "<h3>Bitcoin Chart</h3>",
-            "HTMLCode": "<script>\n  (function(b,i,t,C,O,I,N) {\n    window.addEventListener('load',function() {\n      if(b.getElementById(C))return;\n      I=b.createElement(i),N=b.getElementsByTagName(i)[0];\n      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);\n    },false)\n  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');\n</script>\n\n<div class=\"btcwdgt-chart\" align=\"center\"></div>\n",
+            "HTMLCode": "<script>\n  (function(b,i,t,C,O,I,N) {\n    window.addEventListener('load',function() {\n      if(b.getElementById(C))return;\n      I=b.createElement(i),N=b.getElementsByTagName(i)[0];\n      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);\n    },false)\n  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');\n</script>\n\n<div class=\"btcwdgt-chart\" align=\"center\" bw-cur=\"eur\"></div>\n",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -938,7 +938,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Bitcoin Chart</h3>",
-          "HTMLCode": "<script>\n  (function(b,i,t,C,O,I,N) {\n    window.addEventListener('load',function() {\n      if(b.getElementById(C))return;\n      I=b.createElement(i),N=b.getElementsByTagName(i)[0];\n      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);\n    },false)\n  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');\n</script>\n\n<div class=\"btcwdgt-chart\" align=\"center\"></div>\n",
+          "HTMLCode": "<script>\n  (function(b,i,t,C,O,I,N) {\n    window.addEventListener('load',function() {\n      if(b.getElementById(C))return;\n      I=b.createElement(i),N=b.getElementsByTagName(i)[0];\n      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);\n    },false)\n  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');\n</script>\n\n<div class=\"btcwdgt-chart\" align=\"center\" bw-cur=\"eur\"></div>\n",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
