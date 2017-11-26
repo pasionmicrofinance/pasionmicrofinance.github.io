@@ -203,7 +203,7 @@
         {
           "_params": {
             "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<iframe frameBorder=\"0\" scrolling=\"no\" allowtransparency=\"0\" src=\"https://bitcoinaverage.com/en/widgets?widgetType=conversion&bgcolor=#ffffff&bwidth=1&bcolor=#244a7d&cstyle=round&fsize=16px&ffamily=arial&fcolor=#244a7d&bgTransparent=solid&chartStyle=none&lastUpdateTime=block&currency0=EUR&total=1\" style=\"width:250px; height:275px; overflow:hidden; background-color:transparent !important;\"></iframe>",
+            "HTMLCode": "<div id=\"gobtc-widget-price\" style=\"\" data-cur=\"eur\"></div>\n<script type=\"text/javascript\" src=\"https://widgets.gobitcoin.io/price.js\"></script>",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -216,7 +216,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<iframe frameBorder=\"0\" scrolling=\"no\" allowtransparency=\"0\" src=\"https://bitcoinaverage.com/en/widgets?widgetType=conversion&bgcolor=#ffffff&bwidth=1&bcolor=#244a7d&cstyle=round&fsize=16px&ffamily=arial&fcolor=#244a7d&bgTransparent=solid&chartStyle=none&lastUpdateTime=block&currency0=EUR&total=1\" style=\"width:250px; height:275px; overflow:hidden; background-color:transparent !important;\"></iframe>",
+          "HTMLCode": "<div id=\"gobtc-widget-price\" style=\"\" data-cur=\"eur\"></div>\n<script type=\"text/javascript\" src=\"https://widgets.gobitcoin.io/price.js\"></script>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
