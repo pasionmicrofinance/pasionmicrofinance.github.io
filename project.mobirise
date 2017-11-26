@@ -925,7 +925,7 @@
         {
           "_params": {
             "blockTitle": "<h3>Bitcoin Chart</h3>",
-            "HTMLCode": "<iframe id='widget-ticker-preview' src='//www.coingecko.com/en/widget_component/ticker/bitcoin/eur?id=bitcoin' style='border:none; margin-left:50px; height:125px; width: 275px;' scrolling='no' frameborder='0' allowTransparency='true'></iframe>\n",
+            "HTMLCode": "<iframe id='widget-ticker-preview' src='//www.coingecko.com/en/widget_component/ticker/bitcoin/eur?id=bitcoin' style='border:none; margin-left:500px; height:125px; width: 275px;' scrolling='no' frameborder='0' allowTransparency='true'></iframe>\n",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -938,7 +938,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Bitcoin Chart</h3>",
-          "HTMLCode": "<iframe id='widget-ticker-preview' src='//www.coingecko.com/en/widget_component/ticker/bitcoin/eur?id=bitcoin' style='border:none; margin-left:50px; height:125px; width: 275px;' scrolling='no' frameborder='0' allowTransparency='true'></iframe>\n",
+          "HTMLCode": "<iframe id='widget-ticker-preview' src='//www.coingecko.com/en/widget_component/ticker/bitcoin/eur?id=bitcoin' style='border:none; margin-left:500px; height:125px; width: 275px;' scrolling='no' frameborder='0' allowTransparency='true'></iframe>\n",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
