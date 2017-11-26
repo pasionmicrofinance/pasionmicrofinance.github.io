@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pasion Microfinance",
-    "currentPage": "index.html",
+    "currentPage": "charts.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -199,31 +199,6 @@
               "color": "#22497d"
             }
           }
-        },
-        {
-          "_params": {
-            "blockTitle": "<h3>Block Title</h3>",
-            "HTMLCode": "<script type=\"text/javascript\" src=\"https://files.coinmarketcap.com/static/widget/currency.js\"></script><div class=\"coinmarketcap-currency-widget\" data-currency=\"bitcoin\" data-base=\"EUR\" data-secondary=\"\" data-ticker=\"true\" data-rank=\"true\" data-marketcap=\"true\" data-volume=\"true\" data-stats=\"EUR\" data-statsticker=\"false\" align=\"middle\"> </div>",
-            "extEdit": true,
-            "paddingTop": 20,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<script type=\"text/javascript\" src=\"https://files.coinmarketcap.com/static/widget/currency.js\"></script><div class=\"coinmarketcap-currency-widget\" data-currency=\"bitcoin\" data-base=\"EUR\" data-secondary=\"\" data-ticker=\"true\" data-rank=\"true\" data-marketcap=\"true\" data-volume=\"true\" data-stats=\"EUR\" data-statsticker=\"false\" align=\"middle\"> </div>",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-r"
         },
         {
           "_styles": {
@@ -950,7 +925,7 @@
         {
           "_params": {
             "blockTitle": "<h3>Bitcoin Chart</h3>",
-            "HTMLCode": "<div id=\"divWidgetAreaPrice\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+            "HTMLCode": "<div id=\"divWidgetAreaPrice\" align=\"center\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -963,7 +938,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Bitcoin Chart</h3>",
-          "HTMLCode": "<div id=\"divWidgetAreaPrice\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+          "HTMLCode": "<div id=\"divWidgetAreaPrice\" align=\"center\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
