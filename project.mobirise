@@ -925,7 +925,7 @@
         {
           "_params": {
             "blockTitle": "<h3>Bitcoin Chart</h3>",
-            "HTMLCode": "<div id=\"divWidgetAreaPrice\" align=\"center\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+            "HTMLCode": "<div class=\"btcwdgt-chart\"></div>\n",
             "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
@@ -938,7 +938,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Bitcoin Chart</h3>",
-          "HTMLCode": "<div id=\"divWidgetAreaPrice\" align=\"center\" style=\"min-width:250px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"EUR\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#ffffff\";\nwidgetStyle[\"backgroundColor\"]=\"#ffffff\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#244a7d\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#244a7d\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"none\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+          "HTMLCode": "<div class=\"btcwdgt-chart\"></div>\n",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
