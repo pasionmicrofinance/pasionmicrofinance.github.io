@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -877,6 +877,31 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "blockTitle": "<h3>Block Title</h3>",
+            "HTMLCode": "<div id=\"divWidgetAreaChart\" style=\"min-width:250px !important; height:220px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"USD\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#FFFFFF\";\nwidgetStyle[\"backgroundColor\"]=\"#FFFFFF\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#000000\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#CCCCCC\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"block\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "<h3>Block Title</h3>",
+          "HTMLCode": "<div id=\"divWidgetAreaChart\" style=\"min-width:250px !important; height:220px !important;\"><script>var typeChart='price';\nvar w_baseCurrency = new Array(); var w_targetCurrency = new Array(); w_baseCurrency[0]=\"BTC\"; w_targetCurrency[0]=\"USD\"; var widgetStyle={};\nwidgetStyle[\"bgColor\"]=\"#FFFFFF\";\nwidgetStyle[\"backgroundColor\"]=\"#FFFFFF\";\nwidgetStyle[\"bgTransparent\"]=\"solid\";\nwidgetStyle[\"fontSize\"]=\"16px\";\nwidgetStyle[\"fontFamily\"]=\"arial\";\nwidgetStyle[\"fontColor\"]=\"#000000\";\nwidgetStyle[\"borderWidth\"]=\"1\";\nwidgetStyle[\"borderColor\"]=\"#CCCCCC\";\nwidgetStyle[\"cornerStyle\"]=\"round\";\nwidgetStyle[\"lastUpdateTime\"]=\"block\";\nwidgetStyle[\"chartStyle\"]=\"block\";\n</script><meta charset=\"UTF\"><script src=\"https://bitcoinaverage.com/vendor/jquery/dist/jquery.min.js\"></script><script src=\"http://d3js.org/d3.v3.min.js\" charset=\"utf-8\"></script><script src=\"https://bitcoinaverage.com/js/widgetGenerator/widgetUserScript.js\"></script></div>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-v"
         },
         {
           "_inherit": "menu",
