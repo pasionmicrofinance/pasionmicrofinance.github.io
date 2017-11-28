@@ -61,7 +61,7 @@
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bitcoinaverage.com/en/bitcoin-price/btc-to-eur\">CHARTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -396,7 +396,7 @@
           },
           "text1": "<strong>Address</strong><br>Athens, Greece",
           "text2": "<strong>Contacts</strong><br>\nEmail: pasion.microfinance@gmail.com<br>\nSkype: pasion.microfinance<br><br>",
-          "text3": "<strong>Links</strong><br>bitcoin.org<br><br>",
+          "text3": "<strong>Links</strong><br>bitcoin.org<br><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -585,7 +585,7 @@
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bitcoinaverage.com/en/bitcoin-price/btc-to-eur\">CHARTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -808,7 +808,7 @@
           },
           "text1": "<strong>Address</strong><br>Athens, Greece",
           "text2": "<strong>Contacts</strong><br>\nEmail: pasion.microfinance@gmail.com<br>\nSkype: pasion.microfinance<br><br>",
-          "text3": "<strong>Links</strong><br>bitcoin.org<br><br>",
+          "text3": "<strong>Links</strong><br>bitcoin.org<br><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -897,7 +897,7 @@
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bitcoinaverage.com/en/bitcoin-price/btc-to-eur\">CHARTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1006,7 +1006,7 @@
           },
           "text1": "<strong>Address</strong><br>Athens, Greece",
           "text2": "<strong>Contacts</strong><br>\nEmail: pasion.microfinance@gmail.com<br>\nSkype: pasion.microfinance<br><br>",
-          "text3": "<strong>Links</strong><br>bitcoin.org<br><br>",
+          "text3": "<strong>Links</strong><br>bitcoin.org<br><br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1054,7 +1054,7 @@
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ΗΟΜΕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://bitcoinaverage.com/en/bitcoin-price/btc-to-eur\">CHARTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"contact-us.html\">CONTACT US</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1223,7 +1223,7 @@
           },
           "text1": "<strong>Address</strong><br>Athens, Greece",
           "text2": "<strong>Contacts</strong><br>\nEmail: pasion.microfinance@gmail.com<br>\nSkype: pasion.microfinance<br><br>",
-          "text3": "<strong>Links</strong><br>bitcoin.org<br><br>",
+          "text3": "<strong>Links</strong><br>bitcoin.org<br><br><br>",
           "_tags": [
             "Theme"
           ],
