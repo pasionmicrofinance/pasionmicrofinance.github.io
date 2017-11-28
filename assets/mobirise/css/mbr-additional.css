@@ -629,6 +629,15 @@ h6,
 }
 
 
+
+#msg-box8-s .mbr-section-title,
+#msg-box8-s p {
+  color: #fff;
+}
+#content1-t DIV {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
