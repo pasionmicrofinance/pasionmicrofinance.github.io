@@ -849,8 +849,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "About us",
+          "text": "<p>...and what we can do for you</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -864,7 +864,7 @@
             "paddingBottom": "6",
             "bgColor": "#fff"
           },
-          "text": "We are a team of highly skilled professional traders and programmers. Our vision is to make the bitcoin world an easy place for you. We are here to assist you in providing value.",
+          "text": "We are a team of highly skilled professional traders and programmers. Our vision is to make the bitcoin world an easy place for you. &nbsp;We can assist you to perform simpler tasks (e.g buy bitcoins, choose a bitcoin wallet) to the most complicated ones . &nbsp;",
           "_tags": [
             "Theme"
           ],
