@@ -327,7 +327,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html#msg-box5-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://localbitcoins.com/accounts/profile/pasion.microfinance/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TRADE WITH US</a>",
           "button2": "<a data-app-btn=\"true\" href=\"page1.html#msg-box5-n\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"page1.html#msg-box5-o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page1.html#msg-box5-p\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -490,7 +490,7 @@
             }
           },
           "title": "Bitcoin trading",
-          "text": "We offer OTG Bitcoin trading solutions without hassle via LocalBitcoins or hand-in-hand.<br>In order to trade with us,you should click <a href=\"https://localbitcoins.com/accounts/profile/pasion.microfinance/\">here</a> and follow the instructions provided. If any issue arises, you can<a href=\"contact-us.html\"> contact us</a>. &nbsp;<br><br>*",
+          "text": "We offer OTG Bitcoin trading solutions without hassle via LocalBitcoins or hand-in-hand.<br>In order to trade with us,you should click <a href=\"https://localbitcoins.com/accounts/profile/pasion.microfinance/\">here</a> and follow the instructions provided. If any issue arises, you can<a href=\"contact-us.html\"> contact us</a>. &nbsp;<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
