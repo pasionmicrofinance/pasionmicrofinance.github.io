@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pasion Microfinance",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -313,7 +313,7 @@
           "subtitle1": "",
           "caption1": "We offer OTG Bitcoin trading solutions without hassle via LocalBitcoins or hand-in-hand.",
           "title2": "Bitcoin Consulting",
-          "subtitle2": "<span style=\"font-style: normal;\"><br>Bitcoin is a complicated topic and might seem perplexing upon first sight. We are specialized to provide you with the consulting.</span>",
+          "subtitle2": "<span style=\"font-style: normal;\"><br>Bitcoin is a complicated topic and might seem perplexing upon first sight. We are specialized to provide you with the best consulting experience</span>",
           "caption2": "",
           "title3": "Bitcoin Business Integration",
           "subtitle3": "",
@@ -438,7 +438,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SERVICES",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -553,7 +553,7 @@
             }
           },
           "title": "Bitcoin Consulting",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "We are specialized to provide you with the best consulting experience.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -708,7 +708,7 @@
             }
           },
           "title": "Bitcoin Business Integration",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "We are operating on providing a Bitcoin solution that will enable your business enterprise to accept Bitcoin without altering the clients typical experience.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -765,7 +765,7 @@
             }
           },
           "title": "Bitcoin programming",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "We specialize in custom made smart contract and app solutions using the latest, state-of-the-art software.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
